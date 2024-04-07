@@ -34,4 +34,4 @@
 ![moein](register.png)
 
 
-made with ❤ by [moein](https://github.com/moeinfadakar)
+made with ❤ by [moein fadakar](https://github.com/moeinfadakar)
