@@ -11,9 +11,9 @@
 ## The features that will be added are as follows:
 
 * [x] Complete the **login page**
-* [] A beautiful **homepage** to view content
-* [] Ability **to like commenting and Send content to other users**
-* [] Complete the **registration page**
+* [ ] A beautiful **homepage** to view content
+* [ ] Ability **to like commenting and Send content to other users**
+* [ ] Complete the **registration page**
 * etc .
 
 ## Screenshots of the project:
@@ -22,13 +22,13 @@
 
 
 
-![moein](Home.png);
+![moein](Home.png)
 
 
 **Login page :**
 
-![moein](login.png);
+![moein](login.png)
 
 **Register page :**
 
-![moein](register.png);
+![moein](register.png)
